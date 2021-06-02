@@ -76,13 +76,16 @@ Paper showed positive results and feedback on testing subjects, improving user q
 ## PUBLISHED GAMES
 
 ### YOUCANEVENT METAVERSE
-- Windows/MacOS at Youcanevent
+![Youcanevent](https://theme.zdassets.com/theme_assets/9833325/f6972a302917e25caa60045f6a16e90bfba79a1b.png)
+- Windows/MacOS at [Youcanevent](https://twitter.com/youcanevent?lang=es)
 
 ### SUPER ASTREUS 2
-- Windows at Steam
+![Super Astrus 2 on Steam](https://cdn.akamai.steamstatic.com/steam/apps/1253240/header.jpg?t=1589228866)
+- Windows at [Steam](https://store.steampowered.com/app/1253240/Super_Astreus_2/)
 
 ### LA CUENCA DEL VALLE DE MÉXICO - SACMEX
-- Android Play Store / IOs App Store
+![SACMEX](https://play-lh.googleusercontent.com/kmftlQQ7IhKqwEADrWWH816T_bTmZXJr7Ez98aOTsAUAiKrbR-W4-th5cswCHuYqpf5Y=s180-rw)
+- [Android Play Store](https://play.google.com/store/apps/details?id=com.Games4M2Q.LaCuencadelValledeMxicoSACMEX) / [IOs App Store]()
 
 ### BUST A MOVE
 - Physical Casino Slot Machine
