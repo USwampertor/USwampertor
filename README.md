@@ -1,0 +1,96 @@
+# Marco Antonio Millán Sánchez
+---
+
+## About
+
+Game Development Engineer with more than 2 years of hands-on experience in Tools Programming, Testing and Gameplay Programming. 
+Strong analytical and problem solving capabilities, creative in search of new solutions and development of new tools to enrich the gaming industry
+
+## Work Experience
+
+### UNREAL ENGINE 4 PROGRAMMING AND TOOL ENGINEER
+Youcan | Guadalajara Jalisco | 2020
+
+* YoucanApp
+YoucanApp is a virtual environment service consisting of a collection of systems with the main objective to create a platform where people can interact and 
+communicate while generating spaces for conferences, expositions, booths and symposiums. 
+Users can interact via chat, voice calls, video calls and exchange information.
+Users can watch video conferences, Youtube media and web.
+
+Unreal Engine 4 developer
+- Development of Analytics module
+Installer development
+- Installer generation with Inno and Pascal in Windows
+- Installer DMG generation for Mac
+Tools programmer
+- Analytics module generation
+- Integrated Elasticsearch and Grafana for data management and analysis.
+- Heatmap generator tool for analytics made in C++ with SFML as graphics system
+
+### UNREAL ENGINE 4 AND GAME ENGINE PROGRAMMING AND TOOL ENGINEER
+4M2Q Studios | Guadalajara Jalisco | 2019-Present
+
+* Super Astreus 2
+Super Astreus 2 is a multiplayer platform race game published in Steam.
+Responsibilities:
+- Tools programmer
+- Developed the level creation system
+- Steamworks integration
+- Localization to English
+
+* La Cuenca del Valle de México SACMEX
+Augmented Reality game developed for the Mexico City Water Office
+Available in IOs and Android.
+Responsibilities:
+- Program and Project Team Leader
+- Tools programmer
+- Gameplay programmer
+
+
+### PROGRAMMING AND TOOL ENGINEER
+Present Creative LLC | Guadalajara Jalisco | 2018-2019
+
+* STUN Framework
+STUN is a slot machine casino game oriented framework created in JavaScript
+Responsibilities
+- First draft and experimentation for the framework
+
+* A Western Tail
+Slot Machine Casino Game available on different platforms.
+Responsibilities
+- Localization
+- Data manipulation
+
+## Research and development
+
+### TOOLS AND GAME ENGINE DEVELOPMENT
+Research and development of custom game engine "Nautilus Engine" with focuson Artificial Intelligence development as a testing chamber.
+- Development with module based system for easy exchanging between systems.
+- DirectX11 development
+- Neural network development for Animation correction
+
+### VR DEVELOPMENT FOR STRABISMUS OR SQUINT TREATMENT PAPER
+Research of techniques to develop VR games that could treat Strabismus, alsocalled squint using games as a subconscious training and exercise "jungle gym".
+Paper showed positive results and feedback on testing subjects, improving user quality of life in vision related issues.
+
+## PUBLISHED GAMES
+
+### YOUCANEVENT METAVERSE
+- Windows/MacOS at Youcanevent
+
+### SUPER ASTREUS 2
+- Windows at Steam
+
+### LA CUENCA DEL VALLE DE MÉXICO - SACMEX
+- Android Play Store / IOs App Store
+
+### BUST A MOVE
+- Physical Casino Slot Machine
+
+### SMACK-A-FOOL
+- Android Play Store
+
+<!---
+USwampertor/USwampertor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
