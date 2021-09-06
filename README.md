@@ -3,8 +3,8 @@
 
 ## About
 
-Game Development Engineer with more than 2 years of hands-on experience in Tools Programming, Testing and Gameplay Programming. 
-Strong analytical and problem solving capabilities, creative in search of new solutions and development of new tools to enrich the gaming industry
+Game Development Engineer with more than 3 years of hands-on experience in Tools Programming, Testing and Gameplay Programming. 
+Strong analytical and problem solving capabilities, creative in search of new solutions and development of new tools to enrich the gaming industry. Teaching tools for game development since 2021.
 
 ## Work Experience
 
@@ -38,15 +38,6 @@ Responsibilities:
 - Steamworks integration
 - Localization to English
 
-* La Cuenca del Valle de México SACMEX
-Augmented Reality game developed for the Mexico City Water Office
-Available in IOs and Android.
-Responsibilities:
-- Program and Project Team Leader
-- Tools programmer
-- Gameplay programmer
-
-
 ### PROGRAMMING AND TOOL ENGINEER
 Present Creative LLC | Guadalajara Jalisco | 2018-2019
 
@@ -76,15 +67,12 @@ Paper showed positive results and feedback on testing subjects, improving user q
 ## PUBLISHED GAMES
 
 ### YOUCANEVENT METAVERSE
-![Youcanevent](https://theme.zdassets.com/theme_assets/9833325/f6972a302917e25caa60045f6a16e90bfba79a1b.png)
 - Windows/MacOS at [Youcanevent](https://twitter.com/youcanevent?lang=es)
 
 ### SUPER ASTREUS 2
-![Super Astrus 2 on Steam](https://cdn.akamai.steamstatic.com/steam/apps/1253240/header.jpg?t=1589228866)
 - Windows at [Steam](https://store.steampowered.com/app/1253240/Super_Astreus_2/)
 
 ### LA CUENCA DEL VALLE DE MÉXICO - SACMEX
-![SACMEX](https://play-lh.googleusercontent.com/kmftlQQ7IhKqwEADrWWH816T_bTmZXJr7Ez98aOTsAUAiKrbR-W4-th5cswCHuYqpf5Y=s180-rw)
 - [Android Play Store](https://play.google.com/store/apps/details?id=com.Games4M2Q.LaCuencadelValledeMxicoSACMEX) / [IOs App Store]()
 
 ### BUST A MOVE
