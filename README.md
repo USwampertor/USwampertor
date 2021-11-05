@@ -6,6 +6,10 @@
 Game Development Engineer with more than 3 years of hands-on experience in Tools Programming, Testing and Gameplay Programming. 
 Strong analytical and problem solving capabilities, creative in search of new solutions and development of new tools to enrich the gaming industry. Teaching tools for game development since 2021.
 
+## Language Experience
+
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="200" height="200"/>
+
 ## Work Experience
 
 ### UNREAL ENGINE 4 PROGRAMMING AND TOOL ENGINEER
