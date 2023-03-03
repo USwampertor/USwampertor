@@ -17,6 +17,16 @@ Strong analytical and problem solving capabilities, creative in search of new so
 ## Work Experience
 
 ### UNREAL ENGINE 4 PROGRAMMING AND TOOL ENGINEER
+### ACTIVISION AAA TBA GAME TOOLS PROGRAMMER
+TLM Partners Inc | Guadalajara Jalisco | 2021-2023
+
+* Activision AAA game *TBA*
+Tools programmer
+- Standalone and engine integrated C++ tools
+* CORE Tools team programmer
+
+
+### UNREAL ENGINE 4 PROGRAMMING AND TOOL ENGINEER
 Youcan | Guadalajara Jalisco | 2020
 
 * YoucanApp
@@ -36,7 +46,7 @@ Tools programmer
 - Heatmap generator tool for analytics made in C++ with SFML as graphics system
 
 ### UNREAL ENGINE 4 AND GAME ENGINE PROGRAMMING AND TOOL ENGINEER
-4M2Q Studios | Guadalajara Jalisco | 2019-Present
+4M2Q Studios | Guadalajara Jalisco | 2019-2021
 
 * Super Astreus 2
 Super Astreus 2 is a multiplayer platform race game published in Steam.
