@@ -3,8 +3,10 @@
 
 ## About
 
-Game Development Engineer with more than 3 years of hands-on experience in Tools Programming, Testing and Gameplay Programming. 
-Strong analytical and problem solving capabilities, creative in search of new solutions and development of new tools to enrich the gaming industry. Teaching tools for game development since 2021.
+c++/Tools Programmer with more than 5 years of hands-on experience in Tools, System and Gameplay Programming.
+Strong analytical and problem solving capabilities, creative in search and development of new solutions and tools
+
+Teaching tools for game development since 2021.
 
 ## Language Experience
 
@@ -24,7 +26,9 @@ Shipped 3 AAA games from an Activision franchise *TBA*
 * Activision AAA game *TBA*
 * Activision AAA game *TBA*
 * Activision AAA game *TBA*
+
 Tools programmer
+
 - Standalone and engine integrated C++ tools
 * CORE Tools team programmer
 
