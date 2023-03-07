@@ -12,14 +12,17 @@ Strong analytical and problem solving capabilities, creative in search of new so
 
 ## Tools Experience
 
-<img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="50" height="50"/> <img src="https://img.utdstc.com/icon/71e/e83/71ee83885d34166b758938311fbab410e290cdc95fb33c2dfb624d8829a0ba4d:200" alt="unreal" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="vs" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="njs" width="50" height="50"/> <img src="https://www.bimhvactool.com/wp-content/uploads/group-avatars/8/61151df11d5f4-bpfull.png" alt="omniverse" width="50" height="50"/> <img src="https://img.informer.com/icons_mac/png/128/437/437456.png" alt="omniverse" width="50" height="50"/>
+<img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="50" height="50"/> <img src="https://img.utdstc.com/icon/71e/e83/71ee83885d34166b758938311fbab410e290cdc95fb33c2dfb624d8829a0ba4d:200" alt="unreal" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="vs" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="njs" width="50" height="50"/> <img src="https://esri.github.io/cityengine/assets/img/omniverse.png" alt="omniverse" width="50" height="50"/> <img src="https://img.informer.com/icons_mac/png/128/437/437456.png" alt="omniverse" width="50" height="50"/>
 
 ## Work Experience
 
 ### UNREAL ENGINE 4 PROGRAMMING AND TOOL ENGINEER
-### ACTIVISION AAA TBA GAME TOOLS PROGRAMMER
+### 3 ACTIVISION AAA TBA GAMES TOOLS PROGRAMMER
 TLM Partners Inc | Guadalajara Jalisco | 2021-2023
 
+Shipped 3 AAA games from an Activision franchise *TBA*
+* Activision AAA game *TBA*
+* Activision AAA game *TBA*
 * Activision AAA game *TBA*
 Tools programmer
 - Standalone and engine integrated C++ tools
@@ -45,7 +48,7 @@ Tools programmer
 - Integrated Elasticsearch and Grafana for data management and analysis.
 - Heatmap generator tool for analytics made in C++ with SFML as graphics system
 
-### UNREAL ENGINE 4 AND GAME ENGINE PROGRAMMING AND TOOL ENGINEER
+### UNITY, UNREAL ENGINE 4 AND GAME ENGINE PROGRAMMING AND TOOL ENGINEER
 4M2Q Studios | Guadalajara Jalisco | 2019-2021
 
 * Super Astreus 2
