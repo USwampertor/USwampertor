@@ -3,10 +3,10 @@
 
 ## About
 
-c++/Tools Programmer with more than 5 years of hands-on experience in Tools, System and Gameplay Programming.
-Strong analytical and problem solving capabilities, creative in search and development of new solutions and tools
+c++ and Tools Programmer with more than 5 years of hands-on experience in Tools, System and Gameplay
+Programming. Strong analytical and problem solving capabilities, creative in search and development of new solutions
 
-Teaching tools for game development since 2021.
+Teaching tools for game development and game prototyping since 2021.
 
 ## Language Experience
 
@@ -16,66 +16,73 @@ Teaching tools for game development since 2021.
 
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="50" height="50"/> <img src="https://img.utdstc.com/icon/71e/e83/71ee83885d34166b758938311fbab410e290cdc95fb33c2dfb624d8829a0ba4d:200" alt="unreal" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="vs" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="njs" width="50" height="50"/> <img src="https://esri.github.io/cityengine/assets/img/omniverse.png" alt="omniverse" width="50" height="50"/> <img src="https://img.informer.com/icons_mac/png/128/437/437456.png" alt="omniverse" width="50" height="50"/>
 
+---
+## Shipped Games
+
+**CALL OF DUTY: MODERN WARFARE**
+- Steam | Battle.Net | XBOne | PS4
+
+**CALL OF DUTY: BLACK OPS** 
+- Steam | Battle.Net | XBOne | PS4
+
+**CALL OF DUTY: VANGUARD** 
+- Steam | Battle.Net | XBOne | PS4
+
+**ROCKET LEAGUE** 
+- Windows | PS4 | PS5 | XBOne | NSwitch
+
+---
+
 ## Work Experience
 
+### UNREAL ENGINE 3 PROGRAMMING AND TOOLS ENGINEER
+Globant | Guadalajara Jalisco | May 2023 - Now
+
+UE3 | PERFORCE | VISUAL STUDIO
+
+
+**ROCKET LEAGUE | Epic Games**
+
+Contractor Work for client Epic Games for the game Rocket League
+
+---
+
+### UNREAL ENGINE 4 PROGRAMMING AND TOOLS ENGINEER
+TLM Partners | Guadalajara Jalisco | November 2021- April 2023
+
+C++ | UE4 | PERFORCE | VISUAL STUDIO
+
+
+**CALL OF DUTY | PC**
+
+Reworked the networking system, ported and and shipped the new Call of Duty:
+Modern Warfare, Call of Duty: Black Ops, and Call of Duty: Vanguard
+
+- In-studio C/C++ game engine and developed standalone C++ tools work
+- Rework and Porting of the network system to Steam
+- Steamworks integration and rich presence implementation
+
+**CORE TOOLS**
+
+- Tools and plugin development of UE4 template systems for quicker work
+- Created a service for launching full UE4 projects with prepacked tools
+
+---
+
 ### UNREAL ENGINE 4 PROGRAMMING AND TOOL ENGINEER
-### 3 ACTIVISION AAA TBA GAMES TOOLS PROGRAMMER
-TLM Partners Inc | Guadalajara Jalisco | 2021-2023
+Youcan | Guadalajara Jalisco | January 2020 - December 2020
 
-Shipped 3 AAA games from an Activision franchise *TBA*
-* Activision AAA game *TBA*
-* Activision AAA game *TBA*
-* Activision AAA game *TBA*
+C++ | UE4 | PERFORCE | VISUAL STUDIO | GITHUB | SFML | AWS | INNO | PASCAL
 
-Tools programmer
+**YoucanApp | PC | MAC**
 
-- Standalone and engine integrated C++ tools
-* CORE Tools team programmer
+Virtual environment service where people can interact and communicate while
+generating spaces for conferences, expositions, booths and symposiums.
 
-
-### UNREAL ENGINE 4 PROGRAMMING AND TOOL ENGINEER
-Youcan | Guadalajara Jalisco | 2020
-
-* YoucanApp
-YoucanApp is a virtual environment service consisting of a collection of systems with the main objective to create a platform where people can interact and 
-communicate while generating spaces for conferences, expositions, booths and symposiums. 
-Users can interact via chat, voice calls, video calls and exchange information.
-Users can watch video conferences, Youtube media and web.
-
-Unreal Engine 4 developer
-- Development of Analytics module
-Installer development
-- Installer generation with Inno and Pascal in Windows
-- Installer DMG generation for Mac
-Tools programmer
-- Analytics module generation
-- Integrated Elasticsearch and Grafana for data management and analysis.
-- Heatmap generator tool for analytics made in C++ with SFML as graphics system
-
-### UNITY, UNREAL ENGINE 4 AND GAME ENGINE PROGRAMMING AND TOOL ENGINEER
-4M2Q Studios | Guadalajara Jalisco | 2019-2021
-
-* Super Astreus 2
-Super Astreus 2 is a multiplayer platform race game published in Steam.
-Responsibilities:
-- Tools programmer
-- Developed the level creation system
-- Steamworks integration
-- Localization to English
-
-### PROGRAMMING AND TOOL ENGINEER
-Present Creative LLC | Guadalajara Jalisco | 2018-2019
-
-* STUN Framework
-STUN is a slot machine casino game oriented framework created in JavaScript
-Responsibilities
-- First draft and experimentation for the framework
-
-* A Western Tail
-Slot Machine Casino Game available on different platforms.
-Responsibilities
-- Localization
-- Data manipulation
+- Development of Analytics module plugin system
+- Tools for data and analysis management, as standalone tools and UE4 plugins
+- C++ based Heatmap generator tool
+- Installer development and maintenance
 
 ## Research and development
 
@@ -88,23 +95,6 @@ Research and development of custom game engine "Nautilus Engine" with focuson Ar
 ### VR DEVELOPMENT FOR STRABISMUS OR SQUINT TREATMENT PAPER
 Research of techniques to develop VR games that could treat Strabismus, alsocalled squint using games as a subconscious training and exercise "jungle gym".
 Paper showed positive results and feedback on testing subjects, improving user quality of life in vision related issues.
-
-## PUBLISHED GAMES
-
-### YOUCANEVENT METAVERSE
-- Windows/MacOS at [Youcanevent](https://twitter.com/youcanevent?lang=es)
-
-### SUPER ASTREUS 2
-- Windows at [Steam](https://store.steampowered.com/app/1253240/Super_Astreus_2/)
-
-### LA CUENCA DEL VALLE DE MÉXICO - SACMEX
-- [Android Play Store](https://play.google.com/store/apps/details?id=com.Games4M2Q.LaCuencadelValledeMxicoSACMEX) / [IOs App Store]()
-
-### BUST A MOVE
-- Physical Casino Slot Machine
-
-### SMACK-A-FOOL
-- Android Play Store
 
 <!---
 USwampertor/USwampertor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
