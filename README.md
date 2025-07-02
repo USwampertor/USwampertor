@@ -3,10 +3,10 @@
 
 ## About
 
-c++ and Tools Programmer with more than 5 years of hands-on experience in Tools, System and Gameplay
-Programming. Strong analytical and problem solving capabilities, creative in search and development of new solutions
+c++ and Tools Programmer with more than 7 years of hands-on experience in Tools, System and Gameplay
+Programming. Strong analytical and problem solving capabilities, creative in search and development of new solutions. Communication and Teamwork are something that makes the game industry grow, because ideas grow together and strong.
 
-Teaching tools for game development and game prototyping since 2021.
+Teaching Tools for Game development | Game prototyping | UX and UI | @ Universidad de Artes Digitales since 2021.
 
 ## Language Experience
 
