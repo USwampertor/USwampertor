@@ -38,7 +38,7 @@ Teaching Tools for Game development | Game prototyping | UX and UI | @ Universid
 
 ## Work Experience
 
-### UNREAL ENGINE 3 PROGRAMMING AND TOOLS ENGINEER
+### UNREAL ENGINE 3 / UNREAL ENGINE 4 PROGRAMMING AND TOOLS ENGINEER
 Globant | Guadalajara Jalisco | May 2023 - Now
 
 UE3 | UE4 | UE5 | PERFORCE | VISUAL STUDIO
