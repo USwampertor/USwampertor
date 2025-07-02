@@ -31,6 +31,9 @@ Teaching tools for game development and game prototyping since 2021.
 **ROCKET LEAGUE** 
 - Windows | PS4 | PS5 | XBOne | NSwitch
 
+**FORTNITE**
+- Windows | PS4 | PS5 | XBOne | NSwitch | XSX
+
 ---
 
 ## Work Experience
@@ -38,12 +41,21 @@ Teaching tools for game development and game prototyping since 2021.
 ### UNREAL ENGINE 3 PROGRAMMING AND TOOLS ENGINEER
 Globant | Guadalajara Jalisco | May 2023 - Now
 
-UE3 | PERFORCE | VISUAL STUDIO
+UE3 | UE4 | UE5 | PERFORCE | VISUAL STUDIO
 
 
 **ROCKET LEAGUE | Epic Games**
 
 Contractor Work for client Epic Games for the game Rocket League
+Development of Tools for Automation for Globant for the the internal Building and deployment of test builds for console debugging
+Development and release of new features for the game
+
+
+**FORTNITE | Epic Games**
+
+Contractor Work for client Epic Games for the game Rocket League
+Part of the Automation team, working and developing features in the Buildgraph system for the Fortnite ecosystem. 
+Bug fixing
 
 ---
 
